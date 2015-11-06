@@ -3,23 +3,7 @@
 
     
     <url>
-     <loc>None/Apis-Mellifera-Mellifera/</loc>
-     <lastmod>2015-11-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>None/Home/</loc>
-     <lastmod>2015-11-06</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Kószki/</loc>
      <lastmod>2015-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -45,6 +29,12 @@
         
     <url>
      <loc>None/Ule-i-barcie/Barcie-i-kłody/</loc>
+     <lastmod>2015-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Ule-i-barcie/Kószki/</loc>
      <lastmod>2015-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -105,6 +95,16 @@
         
     <url>
      <loc>None/Choroby-i-metody-leczenia/Warroza/</loc>
+     <lastmod>2015-11-06</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/Rasy-pszczół/Apis-Mellifera-Mellifera/</loc>
      <lastmod>2015-11-06</lastmod>
      <changefreq>daily</changefreq>
     </url>
