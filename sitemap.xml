@@ -10,25 +10,21 @@
     
 
     
-    <url>
-     <loc>None/Pasieki-i-Pszczelarze/</loc>
-     <lastmod>2015-11-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>None/Phil-Chandler/</loc>
-     <lastmod>2015-11-26</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
         
     <url>
      <loc>None/Pszczelarstwo-Naturalne/Ogólnie/</loc>
+     <lastmod>2015-11-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Pszczelarstwo-Naturalne/Pasieki-i-Pszczelarze/</loc>
+     <lastmod>2015-11-26</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/Pszczelarstwo-Naturalne/Phil-Chandler/</loc>
      <lastmod>2015-11-26</lastmod>
      <changefreq>daily</changefreq>
     </url>
